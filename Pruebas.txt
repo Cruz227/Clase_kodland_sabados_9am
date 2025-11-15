@@ -2,3 +2,7 @@ Hola mundo
 simulación 
 codigo 
 codigo
+Error
+Error
+Error
+Error
